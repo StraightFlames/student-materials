@@ -1,46 +1,44 @@
-# Title
+# Cooking A Meal
 
 ## Executive Summary
 
-*Your executive summary should be pretty brief, under 3 paragraphs and should provide a concise summary of the purpose and contents of the rest of the document.  Explain to the reader what they will get from this document.*
+In this guide we will be explaining on the most thorough ways to prepare a full course meal. This guide will cover all basic topics to food preparation, serving, and a complete run through of everyday hygiene.
 
 ## Business Objectives
 
-*Business objectives should offer the details for why the project is important.  Outline the goals of the project int he sense of the value it will bring and set expectations.  Keep your objectives measurable to avoid confusion in whether or not they have been met.*
+This project is something that all individuals preparing for a meal should refer to when cooking for the family.  Our main goal is to make sure you understand each step for each course of the meal.
 
 ## Background
 
-*Provide any relevant background information regarding why this project is being initiated*
+This project was started in order to maintain a functioning tradition which we all know as dinner. 
 
 ## Scope
 
-*The Scope section should outline what is and is not included as part of this project.  Oftentimes we make assumptions of features or functionality that is not necessarily required.  This is especially useful in a phased approach or when working on an existing system.*
+This project is not in any way a joke or a way to waste time. We are commited to help every household enjoy family time at the table like we are meant to.
 
 ## Functional requirements
 
-*This is where most of the detail should reside.  describe all of the required capabilities of the system in detail.  It is helpful to articulate features in terms of user capabilities.  Keep in mind that the features will be designed and developed off of these descriptions, so if you leave anything up to interpretation, you run the risk of the results not meeting your expectations.  You can also assume capabilities that are not mentioned here will not be included in the project, no matter how common or obvious they are.  You may want to break our subsections for each major feature to make the document more organized.*
+If anybody wants to really know, we only do this out of love for humanity, we see how times are changing and nobody seems to do a thing about it. So when we made this guideline to a full course meal, we only did it to ensure happiness in American homes where lives are not the same as in an older period of time. 
 
 
 ## Personnel requirements
 
-*In this section you may want to describe the composition of the team, do you need dedicated development?  how many people?  How about design or QA?  Think about what personnel is required to make this project a success, and place your recommendations here.*
+A team of 10 is all I as a PM needed to complete this guideline, all individuals who helped are very much experienced with household cooking and are the most qualified to actually complete any sort of summary regarding food. 
 
 ## Delivery schedule
 
-*It's often helpful to break a project out into phases or milestones.  In this section list out any logical checkpoints where you would like to see the project demonstrated to ensure that expectations are being met.  Describe the phase, and the functional requirements required for completion.*
+Every 3 days we had a small contest in between 2 groups of 5. Each time was different, sort of like a iron chef episode we managed to tackle all sorts of food styles, designs, tastes, and methods of prepapration.
 
 ## Other requirements
-
-*This section serves as a catch-all for any details that may not fit in other areas.  things like device or browser support, considerations for accessibility or inspiration for style.  Offer additional context here to ensure the project meets your vision*
+We are not going to force anybody to use this guideline at all, its all up to you. 
 
 ## Assumptions
 
-*Oftentimes we are reliant on outside sources such as frameworks to be used, or services that our system will depend on.  In this section you should provide detail on any assumptions that you have made, such as the system being reliant on the availability of the Google Maps API.*
+Do not assume all meals in this guideline will be of your taste, we have included all variations of all sorts of cuisine from around the world, everybody can find their taste in this guideline.
 
 ## Limitations
 
-*Identify any limitations in terms of time, personnel, technical details, or other things that limit the scope, time, and cost of the project being discussed.*
+Not alot of individuals may want to use this guideline and therefor we have no preocupation as to who we are letting use this structure for food preparation since our limitations to the project were minimal.
 
 ## Risks
-
-*Every project has inherent risks that may cause delay or even failure of a project.  You must identify this risks to show you know what they are, and also identify ways in which you would mitigate those risks.*
+The only risk to this project is anybody who does not adhere their mind fully to completing the task in front of them. Its all up to you really
